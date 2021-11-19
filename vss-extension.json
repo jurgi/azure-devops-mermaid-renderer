@@ -1,11 +1,11 @@
 {
     "manifestVersion": 1,
-    "id": "mermaid-renderer",
+    "id": "lk-mermaid-renderer",
     "version": "1.0.3",
     "name": "Mermaid Renderer",
     "description": "A Mermaid Renderer",
-    "public": true,
-    "publisher": "xinyi-joffre",
+    "public": false,
+    "publisher": "JurgiMacho",
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
